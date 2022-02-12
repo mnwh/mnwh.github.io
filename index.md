@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## The Continuous Action Reinforcement Learning Automata
+
+![CARLA Logog](/CARLA.jpg "Text to show on mouseover").
 
 You can use the [editor on GitHub](https://github.com/mnwh/mnwh.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
