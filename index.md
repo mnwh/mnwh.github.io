@@ -4,7 +4,7 @@
 ![CARLA Logo](/CARLA.jpg "Text to show on mouseover").
 
 
-### Development of embedded Continuous Action Reinforcement learning automata for cyber-physical systems
+### Development of embedded Continuous Action Reinforcement Learning Automata for cyber-physical systems
 
 #### Background
 
@@ -33,6 +33,7 @@ A novel learning technique, the Continuous Action Reinforcement Learning Automat
 #### Technical Approach:
 
 The critical elements to the project are:
+
 •	Investigate the application of low cost, open-source microcontroller systems to a modular embedded implementation of the CARLA algorithm. 
 
 •	Investigate the versatility that the modular nature of the embedded CARLA implementation offers by developing a range of enterprise level applications.
